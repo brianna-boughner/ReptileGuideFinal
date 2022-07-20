@@ -1,0 +1,14 @@
+{
+    "title.label": "Reptile Guide",
+    "findguides.label":"Find care guides by type",
+    "lizard.label": "Lizards",
+    "turtle.label": "Turtles",
+    "snake.label": "Snakes",
+    "frog.label": "Frogs",
+    "careguide.label": "Care Guides",
+    "quiz.label": "Quiz",
+    "contact.label": "Contact",
+    "saved.label":"Saved reptiles",
+    "quizprompt.label" : "Which reptile is perfect for you?",
+    "quizbutton.label" : "Start the quiz!"
+}

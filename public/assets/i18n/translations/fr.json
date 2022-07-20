@@ -1,0 +1,14 @@
+{
+    "title.label": "Guide des reptiles",
+    "findguides.label":"Trouver des guides de soins par type",
+    "lizard.label": "Lézards",
+    "turtle.label": "Tortues",
+    "snake.label": "Serpents",
+    "frog.label": "Grenouilles",
+    "careguide.label": "Guides de soins",
+    "quiz.label": "Quiz",
+    "contact.label": "Contacter",
+    "saved.label":"Reptiles sauvés",
+    "quizprompt.label" : "Quel reptile est parfait pour vous?",
+    "quizbutton.label" : "Commencez le quiz!"
+}

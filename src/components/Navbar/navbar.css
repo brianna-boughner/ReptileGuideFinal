@@ -1,0 +1,58 @@
+.navbar {
+  width: 100%;
+  height: 8vh;
+  background-color: #B2D199;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  top: 0;
+  z-index: 5;
+}
+
+.navbar a {
+  font-size: 15pt;
+  height: 25px;
+  line-height: 25px;
+}
+
+
+
+.navbar .left {
+  margin-left: 20px;
+
+}
+
+.navbar .left >*{
+  color: white;
+  text-decoration: none;
+  font-family: 'Fredoka One', cursive;
+  font-size: xx-large;
+}
+
+.navbar .right {
+  margin-right: 20px;
+  display: flex;
+}
+
+.navbar .right >* {
+  margin-top: 1%;
+  margin-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+.navbar .right a:hover {
+  color: rgb(53, 138, 46);
+}
+
+.dropdownButton{
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: none !important;
+  font-size: 20px !important;
+  margin-bottom: 2% !important;
+  margin-top: -2% !important;
+}
